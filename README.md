@@ -27,11 +27,15 @@ No Activity Tracked This Week
 
 Experience in:
 
-<img src="svg/html5.svg" alt="html5" width="50" height="50"/>&nbsp;<img src="svg/css3.svg" alt="css3" width="50" height="50"/>&nbsp;<img src="svg/javascript.svg" alt="javascript" width="50" height="50"/>&nbsp;<img src="svg/typescript.svg" alt="typescript" width="50" height="50"/>&nbsp;<img src="svg/php.svg" alt="php" width="50" height="50"/>&nbsp;<img src="svg/csharp.svg" alt="csharp" width="50" height="50"/>&nbsp;<img src="svg/cplusplus.svg" alt="cplusplus" width="50" height="50"/>&nbsp;<img src="svg/java.svg" alt="java" width="50" height="50"/>&nbsp;<img src="svg/python.svg" alt="python" width="50" height="50"/>&nbsp;<img src="svg/lua.svg" alt="lua" width="50" height="50"/>
+<img src="svg/csharp.svg" alt="csharp" width="50" height="50"/>&nbsp;<img src="svg/cplusplus.svg" alt="cplusplus" width="50" height="50"/>&nbsp;<img src="svg/java.svg" alt="java" width="50" height="50"/>&nbsp;<img src="svg/python.svg" alt="python" width="50" height="50"/>&nbsp;<img src="svg/lua.svg" alt="lua" width="50" height="50"/>&nbsp;<img src="svg/php.svg" alt="php" width="50" height="50"/><img src="svg/html5.svg" alt="html5" width="50" height="50"/>&nbsp;<img src="svg/css3.svg" alt="css3" width="50" height="50"/>&nbsp;<img src="svg/javascript.svg" alt="javascript" width="50" height="50"/>&nbsp;<img src="svg/typescript.svg" alt="typescript" width="50" height="50"/>
 
 Tools:
 
-<img src="svg/visualstudiocode.svg" alt="visualstudiocode" width="50" height="50"/>&nbsp;<img src="svg/visualstudio.svg" alt="visualstudio" width="50" height="50"/>&nbsp;<img src="svg/intellijidea.svg" alt="IntelliJIDEAIcon" width="50" height="50"/>&nbsp;<img src="svg/rider.svg" alt="rider" width="50" height="50"/>&nbsp;<img src="svg/phpstorm.svg" alt="phpstorm" width="50" height="50"/>&nbsp;<img src="svg/pycharm.svg" alt="pycharm" width="50" height="50"/>&nbsp;<img src="svg/notepadplusplus.svg" alt="notepadplusplus" width="50" height="50"/>&nbsp;<img src="svg/git.svg" alt="git" width="50" height="50"/>&nbsp;<img src="svg/git.svg" alt="git" width="50" height="50"/>&nbsp;<img src="svg/github.svg" alt="github" width="50" height="50"/>&nbsp;<img src="svg/gitlab.svg" alt="gitlab" width="50" height="50"/>&nbsp;<img src="svg/bitbucket.svg" alt="bitbucket" width="50" height="50"/>&nbsp;<img src="svg/docker.svg" alt="docker" width="50" height="50"/>&nbsp;<img src="svg/postman.svg" alt="postman" width="50" height="50"/>&nbsp;<img src="svg/django.svg" alt="django" width="50" height="50"/>&nbsp;<img src="svg/replit.svg" alt="replit" width="50" height="50"/>&nbsp;<img src="svg/figma.svg" alt="figma" width="50" height="50"/>&nbsp;<img src="svg/notion.svg" alt="notion" width="50" height="50"/>&nbsp;<img src="svg/trello.svg" alt="trello" width="50" height="50"/>
+<img src="svg/visualstudiocode.svg" alt="visualstudiocode" width="50" height="50"/>&nbsp;<img src="svg/visualstudio.svg" alt="visualstudio" width="50" height="50"/>&nbsp;<img src="svg/intellijidea.svg" alt="IntelliJIDEAIcon" width="50" height="50"/>&nbsp;<img src="svg/rider.svg" alt="rider" width="50" height="50"/>&nbsp;<img src="svg/phpstorm.svg" alt="phpstorm" width="50" height="50"/>&nbsp;<img src="svg/pycharm.svg" alt="pycharm" width="50" height="50"/>&nbsp;<img src="svg/notepadplusplus.svg" alt="notepadplusplus" width="50" height="50"/>&nbsp;<img src="svg/openai.svg" alt="openai" width="50" height="50"/>&nbsp;<img src="svg/git.svg" alt="git" width="50" height="50"/>&nbsp;<img src="svg/github.svg" alt="github" width="50" height="50"/>&nbsp;<img src="svg/gitlab.svg" alt="gitlab" width="50" height="50"/>&nbsp;<img src="svg/bitbucket.svg" alt="bitbucket" width="50" height="50"/>&nbsp;<img src="svg/docker.svg" alt="docker" width="50" height="50"/>&nbsp;<img src="svg/postman.svg" alt="postman" width="50" height="50"/>&nbsp;<img src="svg/django.svg" alt="django" width="50" height="50"/>&nbsp;<img src="svg/replit.svg" alt="replit" width="50" height="50"/>&nbsp;<img src="svg/figma.svg" alt="figma" width="50" height="50"/>&nbsp;<img src="svg/notion.svg" alt="notion" width="50" height="50"/>&nbsp;<img src="svg/trello.svg" alt="trello" width="50" height="50"/>
+
+Game engines:
+
+<img src="svg/godot.svg" alt="godot" width="50" height="50"/>&nbsp;<img src="svg/unity.svg" alt="unity" width="50" height="50"/>&nbsp;<img src="svg/unreal.svg" alt="unreal" width="50" height="50"/>
 
 Some operating systems I have used include:
 
@@ -59,12 +63,6 @@ Cloud services:
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-
-Game engines:
-
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 Other software experience:
 
@@ -97,7 +95,6 @@ Other software experience:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -105,9 +102,9 @@ Other software experience:
 ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
