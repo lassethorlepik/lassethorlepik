@@ -1,4 +1,5 @@
-## Hi there 👋
+# <p align="center">Hi 👋, I'm Lasse</p>
+
 ![](https://komarev.com/ghpvc/?username=lassethorlepik&color=blue&style=flat)
 
 <!--START_SECTION:waka-->
@@ -50,7 +51,7 @@ Game engines:
 
 <img src="svg/godot.svg" alt="godot" width="50" height="50"/>&nbsp;<img src="svg/unity.svg" alt="unity" width="50" height="50"/>&nbsp;<img src="svg/unreal.svg" alt="unreal" width="50" height="50"/>
 
-Some operating systems I have used include:
+Operating systems:
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -77,7 +78,7 @@ Cloud services:
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
-Other software experience:
+Other software:
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
