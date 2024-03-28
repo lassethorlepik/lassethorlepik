@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_MESSAGE: "Script updated waka stats"
+          COMMIT_MESSAGE: "Script updated stats"
           SHOW_LINES_OF_CODE: true
           COMMIT_BY_ME: true
           SHOW_OS: false
