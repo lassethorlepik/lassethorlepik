@@ -2,7 +2,7 @@
   <defs>
     <clipPath id="rounded-corners">
       <!-- Define a rectangle that matches the viewBox size with rounded corners -->
-      <rect x="0" y="0" width="512" height="512" rx="50" ry="50"/>
+      <rect x="0" y="0" width="512" height="512" rx="100" ry="100"/>
     </clipPath>
 </defs>
   <!-- Apply the clip path to all SVG content -->

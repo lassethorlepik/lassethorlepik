@@ -4,7 +4,7 @@ viewBox="0 0 512 512" fill="none">
 <defs>
     <clipPath id="rounded-corners">
       <!-- Define a rectangle that matches the viewBox size with rounded corners -->
-      <rect x="0" y="0" width="512" height="512" rx="50" ry="50"/>
+      <rect x="0" y="0" width="512" height="512" rx="100" ry="100"/>
     </clipPath>
 </defs>
 <g clip-path="url(#rounded-corners)">
