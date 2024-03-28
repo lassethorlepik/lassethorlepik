@@ -47,19 +47,21 @@ No activity tracked
 
 <!--END_SECTION:waka-simple-->
 
-Experience in:
+# Languages and Tools:
+
+**Experience in:**
 
 <img src="svg/csharp.svg" alt="csharp" width="50" height="50"/>&nbsp;<img src="svg/cplusplus.svg" alt="cplusplus" width="50" height="50"/>&nbsp;<img src="svg/java.svg" alt="java" width="50" height="50"/>&nbsp;<img src="svg/python.svg" alt="python" width="50" height="50"/>&nbsp;<img src="svg/lua.svg" alt="lua" width="50" height="50"/>&nbsp;<img src="svg/php.svg" alt="php" width="50" height="50"/><img src="svg/html5.svg" alt="html5" width="50" height="50"/>&nbsp;<img src="svg/css3.svg" alt="css3" width="50" height="50"/>&nbsp;<img src="svg/javascript.svg" alt="javascript" width="50" height="50"/>&nbsp;<img src="svg/typescript.svg" alt="typescript" width="50" height="50"/>
 
-Tools:
+**Tools:**
 
 <img src="svg/visualstudiocode.svg" alt="visualstudiocode" width="50" height="50"/>&nbsp;<img src="svg/visualstudio.svg" alt="visualstudio" width="50" height="50"/>&nbsp;<img src="svg/intellijidea.svg" alt="IntelliJIDEAIcon" width="50" height="50"/>&nbsp;<img src="svg/rider.svg" alt="rider" width="50" height="50"/>&nbsp;<img src="svg/phpstorm.svg" alt="phpstorm" width="50" height="50"/>&nbsp;<img src="svg/pycharm.svg" alt="pycharm" width="50" height="50"/>&nbsp;<img src="svg/notepadplusplus.svg" alt="notepadplusplus" width="50" height="50"/>&nbsp;<img src="svg/openai.svg" alt="openai" width="50" height="50"/>&nbsp;<img src="svg/git.svg" alt="git" width="50" height="50"/>&nbsp;<img src="svg/github.svg" alt="github" width="50" height="50"/>&nbsp;<img src="svg/gitlab.svg" alt="gitlab" width="50" height="50"/>&nbsp;<img src="svg/bitbucket.svg" alt="bitbucket" width="50" height="50"/>&nbsp;<img src="svg/docker.svg" alt="docker" width="50" height="50"/>&nbsp;<img src="svg/postman.svg" alt="postman" width="50" height="50"/>&nbsp;<img src="svg/django.svg" alt="django" width="50" height="50"/>&nbsp;<img src="svg/replit.svg" alt="replit" width="50" height="50"/>&nbsp;<img src="svg/figma.svg" alt="figma" width="50" height="50"/>&nbsp;<img src="svg/notion.svg" alt="notion" width="50" height="50"/>&nbsp;<img src="svg/trello.svg" alt="trello" width="50" height="50"/>
 
-Game engines:
+**Game engines:**
 
 <img src="svg/godot.svg" alt="godot" width="50" height="50"/>&nbsp;<img src="svg/unity.svg" alt="unity" width="50" height="50"/>&nbsp;<img src="svg/unreal.svg" alt="unreal" width="50" height="50"/>
 
-Operating systems:
+**Operating systems:**
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -70,7 +72,7 @@ Operating systems:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-Cloud services:
+**Cloud services:**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
@@ -82,7 +84,7 @@ Cloud services:
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
-Other software:
+**Other software:**
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -137,5 +139,6 @@ Other software:
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
+<br><br>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" /><span>&nbsp;</span><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" /><span>&nbsp;</span><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="30" />
