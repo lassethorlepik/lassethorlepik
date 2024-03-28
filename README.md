@@ -1,6 +1,14 @@
-# <p align="center">Hi 👋, I'm Lasse</p>
+<img src="resources/animation.gif" align="left" width="168" height="148"/>
+<img src="resources/animation.gif" align="right" width="168" height="148"/>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=lassethorlepik&color=blue&style=flat)
+
+
+# Hi 👋, I'm Lasse<br><br>![](https://komarev.com/ghpvc/?username=lassethorlepik&color=blue&style=plastic)<br><br>
+
+
+
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
