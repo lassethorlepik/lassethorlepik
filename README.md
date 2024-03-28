@@ -4,9 +4,7 @@
 
 
 
-# Hi 👋, I'm Lasse<br><br>![](https://komarev.com/ghpvc/?username=lassethorlepik&color=blue&style=plastic)<br><br>
-
-
+# Hi 👋, I'm Lasse<br><br>![](https://komarev.com/ghpvc/?username=lassethorlepik&color=blue&style=plastic)&nbsp;[![Actions Status](https://github.com/lassethorlepik/lassethorlepik/actions/workflows/waka.yml/badge.svg)](https://github.com/lassethorlepik/lassethorlepik/actions)&nbsp;[![Actions Status](https://github.com/lassethorlepik/lassethorlepik/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/lassethorlepik/lassethorlepik/actions)<br><br>
 
 </div>
 
