@@ -45,7 +45,7 @@ Notepad++                1 hr 11 mins        ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 26 May 2024
+From: 27 March 2024 - To: 27 May 2024
 
 Total Time: 204 hrs 40 mins
 
