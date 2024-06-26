@@ -39,7 +39,7 @@ Jetbrainsrider           34 mins             ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 24 June 2024
+From: 27 March 2024 - To: 25 June 2024
 
 Total Time: 242 hrs 30 mins
 
