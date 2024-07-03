@@ -38,7 +38,7 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 01 July 2024
+From: 27 March 2024 - To: 02 July 2024
 
 Total Time: 242 hrs 30 mins
 
