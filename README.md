@@ -44,7 +44,7 @@ Unity                    2 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 29 September 2024
+From: 27 March 2024 - To: 30 September 2024
 
 Total Time: 388 hrs 5 mins
 
