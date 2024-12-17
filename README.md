@@ -45,7 +45,7 @@ Blender                  5 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 15 December 2024
+From: 27 March 2024 - To: 16 December 2024
 
 Total Time: 851 hrs 13 mins
 
