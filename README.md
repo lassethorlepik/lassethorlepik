@@ -45,9 +45,9 @@ Jetbrainsrider           3 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 24 December 2024
+From: 27 March 2024 - To: 25 December 2024
 
-Total Time: 871 hrs 42 mins
+Total Time: 871 hrs 49 mins
 
 Lua                       348 hrs 58 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.03 %
 Python                    155 hrs 32 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.84 %
