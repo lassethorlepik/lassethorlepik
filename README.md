@@ -45,7 +45,7 @@ IntelliJ IDEA            9 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 29 December 2024
+From: 27 March 2024 - To: 30 December 2024
 
 Total Time: 882 hrs 34 mins
 
