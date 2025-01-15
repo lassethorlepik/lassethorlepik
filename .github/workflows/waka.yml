@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Script updated stats"
           SHOW_LINES_OF_CODE: true
-          COMMIT_BY_ME: true
+          COMMIT_BY_ME: false
           SHOW_OS: false
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: false
