@@ -44,7 +44,7 @@ VS Code                  35 mins             ██████░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 25 April 2025
+From: 27 March 2024 - To: 26 April 2025
 
 Total Time: 1,194 hrs 45 mins
 
