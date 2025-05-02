@@ -44,7 +44,7 @@ PhpStorm                 13 mins             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 30 April 2025
+From: 27 March 2024 - To: 01 May 2025
 
 Total Time: 1,215 hrs 54 mins
 
