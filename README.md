@@ -44,7 +44,7 @@ PyCharm                  9 mins              ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 27 May 2025
+From: 27 March 2024 - To: 28 May 2025
 
 Total Time: 1,289 hrs 58 mins
 
