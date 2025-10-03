@@ -7,32 +7,12 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.8%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-🌆 Daytime                880 commits         ███████████████░░░░░░░░░░   58.74 % 
-🌃 Evening                319 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-🌙 Night                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Blender                  18 hrs 59 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Blender                  18 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/10/2025 15:42:37 UTC
+ Last Updated on 03/10/2025 15:40:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
