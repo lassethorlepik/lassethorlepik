@@ -38,7 +38,7 @@ Notepad++                2 mins              ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 12 December 2025
+From: 27 March 2024 - To: 13 December 2025
 
 Total Time: 1,392 hrs 51 mins
 
