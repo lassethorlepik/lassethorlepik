@@ -7,17 +7,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌆 Daytime                974 commits         ███████████████░░░░░░░░░░   61.03 % 
-🌃 Evening                320 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Daytime                975 commits         ███████████████░░░░░░░░░░   61.05 % 
+🌃 Evening                320 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
@@ -32,7 +32,7 @@ Blender                  15 mins             ███████████�
 ```
 
 
- Last Updated on 05/01/2026 15:50:05 UTC
+ Last Updated on 06/01/2026 15:48:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
