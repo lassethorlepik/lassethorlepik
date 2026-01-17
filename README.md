@@ -7,17 +7,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-🌆 Daytime                989 commits         ███████████████░░░░░░░░░░   61.39 % 
-🌃 Evening                320 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                990 commits         ███████████████░░░░░░░░░░   61.30 % 
+🌃 Evening                323 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 ```
 
 
@@ -25,14 +25,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/01/2026 15:49:10 UTC
+ Last Updated on 17/01/2026 15:43:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
