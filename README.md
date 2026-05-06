@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C433%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C434%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,9 +15,9 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   61.55 % 
-🌃 Evening                358 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   61.52 % 
+🌃 Evening                359 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
 
 
@@ -25,17 +25,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   28 mins             ██████████████████░░░░░░░   72.63 % 
-Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Lua                      1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.61 % 
+Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+INI                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 17:06:26 UTC
+ Last Updated on 06/05/2026 17:05:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
