@@ -7,36 +7,12 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   61.23 % 
-🌃 Evening                367 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Lua                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-C++                      2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Other                    2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-INI                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 33 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 17:21:10 UTC
+ Last Updated on 15/05/2026 17:10:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
