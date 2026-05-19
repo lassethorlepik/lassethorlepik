@@ -11,8 +11,32 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 17:41:05 UTC
+```text
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   61.06 % 
+🌃 Evening                372 commits         █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
+C++                      1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.47 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Unity3D Asset            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/05/2026 17:45:49 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
