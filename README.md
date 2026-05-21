@@ -25,18 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
-C++                      1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Unity3D Asset            19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+C#                       1 hr 35 mins        ███████████████████░░░░░░   75.53 % 
+Unity3D Asset            19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 18:05:41 UTC
+ Last Updated on 21/05/2026 17:39:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
