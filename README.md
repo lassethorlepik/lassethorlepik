@@ -38,7 +38,7 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 25 May 2026
+From: 27 March 2024 - To: 26 May 2026
 
 Total Time: 1,468 hrs 55 mins
 
