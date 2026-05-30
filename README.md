@@ -14,10 +14,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.78 % 
-🌃 Evening                380 commits         █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.74 % 
+🌃 Evening                381 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
 
@@ -25,14 +25,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     51 mins             ████████████████░░░░░░░░░   65.84 % 
+Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/05/2026 18:20:27 UTC
+ Last Updated on 30/05/2026 16:35:29 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
