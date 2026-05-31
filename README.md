@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C471%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C471%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,8 +15,8 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.74 % 
-🌃 Evening                381 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.71 % 
+🌃 Evening                382 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
 🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
@@ -25,16 +25,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     51 mins             ████████████████░░░░░░░░░   65.84 % 
-Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Java                     51 mins             █████████░░░░░░░░░░░░░░░░   35.57 % 
+Other                    45 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
+PowerShell               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 16:35:29 UTC
+ Last Updated on 31/05/2026 16:42:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
