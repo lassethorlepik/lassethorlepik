@@ -15,8 +15,8 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.60 % 
-🌃 Evening                385 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.57 % 
+🌃 Evening                386 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
 🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 
@@ -25,18 +25,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 12 mins       ██████████████░░░░░░░░░░░   56.94 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-HTML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-PowerShell               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Java                     4 hrs 22 mins       ████████████████░░░░░░░░░   62.14 % 
+Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+HTML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+PowerShell               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/06/2026 18:00:35 UTC
+ Last Updated on 05/06/2026 17:30:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
