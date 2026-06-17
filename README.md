@@ -15,9 +15,9 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.19 % 
-🌃 Evening                397 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   60.16 % 
+🌃 Evening                398 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 
 
@@ -25,15 +25,15 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ████████████████░░░░░░░░░   64.75 % 
-Java                     51 mins             █████████░░░░░░░░░░░░░░░░   35.25 % 
+Java                     28 mins             ███████████████░░░░░░░░░░   61.87 % 
+Other                    17 mins             ██████████░░░░░░░░░░░░░░░   38.13 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 19:04:16 UTC
+ Last Updated on 17/06/2026 18:03:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
