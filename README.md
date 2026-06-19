@@ -25,15 +25,14 @@
 
 ```text
 💬 Programming Languages: 
-Java                     28 mins             ███████████████░░░░░░░░░░   61.00 % 
-Other                    18 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 18:17:08 UTC
+ Last Updated on 19/06/2026 17:32:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
