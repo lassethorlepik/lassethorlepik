@@ -44,7 +44,7 @@ Rider                    1 min               █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 26 June 2026
+From: 27 March 2024 - To: 27 June 2026
 
 Total Time: 1,479 hrs 24 mins
 
