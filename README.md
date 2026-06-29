@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C487%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C488%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,8 +15,8 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   59.79 % 
-🌃 Evening                409 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   59.75 % 
+🌃 Evening                410 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
@@ -25,20 +25,20 @@
 
 ```text
 💬 Programming Languages: 
-unity                    17 mins             ███████████░░░░░░░░░░░░░░   45.22 % 
-Text                     11 mins             ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Python                   2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Objective-C              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+C++                      2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+unity                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████░░░░░░░░░░░░   50.98 % 
-Unity                    17 mins             ███████████░░░░░░░░░░░░░░   45.22 % 
-Rider                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+VS Code                  9 hrs 3 mins        ████████████████████████░   96.59 % 
+Unity                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Rider                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 28/06/2026 16:45:07 UTC
+ Last Updated on 29/06/2026 18:00:44 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
