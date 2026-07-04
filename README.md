@@ -7,17 +7,17 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C489%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C490%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   59.62 % 
-🌃 Evening                414 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   59.59 % 
+🌃 Evening                415 commits         ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 
@@ -25,20 +25,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-Objective-C              2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-C++                      2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-unity                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C++                      3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Objective-C              3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C#                       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 54 mins       ████████████████████████░   96.54 % 
-Unity                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Rider                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  10 hrs 31 mins      █████████████████████████   99.06 % 
+Blender                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
- Last Updated on 03/07/2026 16:55:51 UTC
+ Last Updated on 04/07/2026 16:33:56 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
