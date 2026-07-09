@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C491%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,18 +25,19 @@
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 9 mins         ███████████████░░░░░░░░░░   61.11 % 
-Objective-C              36 mins             ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Blender                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+C++                      1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.40 % 
+PHP                      44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Objective-C              36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        ████████████████████████░   94.73 % 
-Blender                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+VS Code                  3 hrs 10 mins       ████████████████████████░   96.95 % 
+Blender                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 
 
- Last Updated on 08/07/2026 16:58:49 UTC
+ Last Updated on 09/07/2026 17:31:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
