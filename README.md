@@ -7,17 +7,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C493%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   58.83 % 
-🌃 Evening                438 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+🌆 Daytime                1063 commits        ███████████████░░░░░░░░░░   58.79 % 
+🌃 Evening                439 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
 
@@ -32,8 +34,30 @@ CSV                      0 secs              ░░░░░░░░░░░�
 VS Code                  19 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 16:30:56 UTC
+```text
+⏱ AI Coding Time: 19 mins (100.0%)
+
+✍️ 284 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,750,121 Input Tokens, 12,832 Output Tokens
+
+💵 $9.14 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 9 AI Prompts
+
+GPT                      284 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 17:20:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
