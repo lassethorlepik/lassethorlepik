@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C480%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -17,8 +17,8 @@
 
 ```text
 🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-🌆 Daytime                1067 commits        ███████████████░░░░░░░░░░   58.24 % 
-🌃 Evening                459 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                1068 commits        ███████████████░░░░░░░░░░   58.27 % 
+🌃 Evening                459 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
 🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
@@ -27,20 +27,36 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 64,536 Input Tokens, 4,318 Output Tokens
+
+💵 $0.77 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 16:01:00 UTC
+ Last Updated on 22/08/2026 15:48:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
