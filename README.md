@@ -63,7 +63,7 @@ GPT                      368 lines           ███████████�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 27 March 2024 - To: 26 August 2026
+From: 27 March 2024 - To: 27 August 2026
 
 Total Time: 1,494 hrs 7 mins
 
