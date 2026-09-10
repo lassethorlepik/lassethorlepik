@@ -27,41 +27,41 @@
 
 ```text
 💬 Programming Languages: 
-Other                    18 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Batchfile                13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-PowerShell               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Other                    18 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+PowerShell               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 3 mins         ████████████████████████░   97.19 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Codex Vscode             50 mins             ████████████████████████░   96.45 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (100.0%)
+⏱ AI Coding Time: 51 mins (100.0%)
 
 ✍️ 612 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 213,521 Input Tokens, 33,281 Output Tokens
+🔤 186,420 Input Tokens, 31,610 Output Tokens
 
-💵 $15.36 Estimated AI Cost This Week
+💵 $15.17 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
 GPT                      763 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,309 characters per prompt
+📚 Verbose Prompter — average 2,496 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 18:49:52 UTC
+ Last Updated on 10/09/2026 18:40:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
