@@ -7,19 +7,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.88%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-🌆 Daytime                1123 commits        ███████████████░░░░░░░░░░   58.64 % 
-🌃 Evening                477 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+🌆 Daytime                1124 commits        ███████████████░░░░░░░░░░   58.57 % 
+🌃 Evening                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 
 
@@ -27,42 +27,42 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      7 hrs 58 mins       █████████████████░░░░░░░░   69.26 % 
-INI                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-PowerShell               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Lua                      10 hrs 12 mins      ██████████████████░░░░░░░   72.22 % 
+INI                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Todotxt                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 50 mins       ███████████████████░░░░░░   76.79 % 
-Codex Vscode             2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+VS Code                  11 hrs 50 mins      █████████████████████░░░░   83.85 % 
+Codex Vscode             2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 26 mins (29.85%)
+⏱ AI Coding Time: 3 hrs 2 mins (21.56%)
 
-✍️ 1,463 lines written by AI, 2,109 lines written by hand (40.96% AI-written)
+✍️ 1,415 lines written by AI, 2,943 lines written by hand (32.47% AI-written)
 
-🔤 1,237,959 Input Tokens, 133,758 Output Tokens
+🔤 761,028 Input Tokens, 122,663 Output Tokens
 
-💵 $32.13 Estimated AI Cost This Week
+💵 $29.42 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 44 AI Prompts
+🧠 9 AI Sessions, 32 AI Prompts
 
-GPT                      1,514 lines         █████████████████████████   99.80 % 
+GPT                      1,466 lines         █████████████████████████   99.80 % 
 Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.96% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 63.45% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 32.47% of written lines came from AI
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 70.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 19:12:23 UTC
+ Last Updated on 24/09/2026 19:27:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
