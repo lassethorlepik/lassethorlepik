@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C525%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2053%20mins-blue?style=flat)
 
@@ -16,10 +16,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-🌆 Daytime                1124 commits        ███████████████░░░░░░░░░░   58.57 % 
-🌃 Evening                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+🌆 Daytime                1126 commits        ███████████████░░░░░░░░░░   58.55 % 
+🌃 Evening                481 commits         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 
 
@@ -27,42 +27,43 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      10 hrs 12 mins      ██████████████████░░░░░░░   72.22 % 
-INI                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Todotxt                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Lua                      15 hrs 26 mins      ██████████████████░░░░░░░   71.38 % 
+Blender                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+INI                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Todotxt                  1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 50 mins      █████████████████████░░░░   83.85 % 
-Codex Vscode             2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+VS Code                  17 hrs 46 mins      █████████████████████░░░░   82.16 % 
+Blender                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Codex Vscode             1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 2 mins (21.56%)
+⏱ AI Coding Time: 2 hrs 38 mins (12.23%)
 
-✍️ 1,415 lines written by AI, 2,943 lines written by hand (32.47% AI-written)
+✍️ 1,272 lines written by AI, 4,090 lines written by hand (23.72% AI-written)
 
-🔤 761,028 Input Tokens, 122,663 Output Tokens
+🔤 672,803 Input Tokens, 105,463 Output Tokens
 
-💵 $29.42 Estimated AI Cost This Week
+💵 $21.26 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 32 AI Prompts
+🧠 7 AI Sessions, 26 AI Prompts
 
-GPT                      1,466 lines         █████████████████████████   99.80 % 
-Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GPT                      1,317 lines         █████████████████████████   99.77 % 
+Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.47% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
+🧑‍💻 Mostly Hands-On — 23.72% of written lines came from AI
+📝 Concise Prompter — average 110 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 70.52% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 19:27:28 UTC
+ Last Updated on 25/09/2026 19:28:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
