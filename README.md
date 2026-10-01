@@ -7,19 +7,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.94%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-🌆 Daytime                1126 commits        ███████████████░░░░░░░░░░   58.55 % 
-🌃 Evening                481 commits         ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+🌆 Daytime                1129 commits        ███████████████░░░░░░░░░░   58.62 % 
+🌃 Evening                481 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌙 Night                  151 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 
 
@@ -27,43 +27,43 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      21 hrs 48 mins      ████████████████░░░░░░░░░   63.18 % 
-Blender                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Todotxt                  3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Lua                      28 hrs 27 mins      ████████████████░░░░░░░░░   64.20 % 
+Blender                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Python                   4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Todotxt                  2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Markdown                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 55 mins      ██████████████░░░░░░░░░░░   57.73 % 
-Codex Vscode             10 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-Blender                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Codex Vscode             20 hrs 20 mins      ███████████░░░░░░░░░░░░░░   45.89 % 
+VS Code                  19 hrs 25 mins      ███████████░░░░░░░░░░░░░░   43.83 % 
+Blender                  4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 9 mins (32.31%)
+⏱ AI Coding Time: 21 hrs 54 mins (49.43%)
 
-✍️ 7,111 lines written by AI, 3,140 lines written by hand (69.37% AI-written)
+✍️ 10,251 lines written by AI, 2,591 lines written by hand (79.82% AI-written)
 
-🔤 6,919,741 Input Tokens, 1,256,203 Output Tokens
+🔤 9,850,692 Input Tokens, 1,717,076 Output Tokens
 
-💵 $345.21 Estimated AI Cost This Week
+💵 $389.53 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 104 AI Prompts
+🧠 18 AI Sessions, 200 AI Prompts
 
-GPT                      7,086 lines         ████████████████████████░   94.29 % 
-Codex-Vscode             429 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+GPT                      10,556 lines        ████████████████████████░   96.09 % 
+Codex-Vscode             429 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.37% of written lines came from AI
-📄 Detailed Prompter — average 555 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 42.67% of changed lines were hand-edited
+🤖 AI-Driven — 79.82% of written lines came from AI
+📝 Concise Prompter — average 374 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 34.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 20:15:55 UTC
+ Last Updated on 01/10/2026 20:27:53 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
