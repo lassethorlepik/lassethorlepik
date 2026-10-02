@@ -7,38 +7,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%2049%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
+```txt
+From: 27 March 2024 - To: 01 October 2026
 
-> 📦 5.3 MB Used in GitHub's Storage 
- > 
-> 🏆 286 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 54 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
+Total Time: 1,578 hrs 37 mins
 
-```text
-💬 Programming Languages: 
-Lua                      24 hrs 36 mins      ███████████████░░░░░░░░░░   61.41 % 
-Python                   5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Blender                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Markdown                 2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Todotxt                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-
-🔥 Editors: 
-Codex Vscode             23 hrs 24 mins      ███████████████░░░░░░░░░░   58.41 % 
-VS Code                  14 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
-Blender                  2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Lua                       464 hrs 8 mins        ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.40 %
+Python                    303 hrs 9 mins        ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.20 %
+C#                        166 hrs 53 mins       ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.57 %
+Blender                   129 hrs 49 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.22 %
+Text                      77 hrs 34 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.91 %
 ```
 
-
- Last Updated on 02/10/2026 10:10:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
