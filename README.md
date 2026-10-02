@@ -66,7 +66,7 @@ Codex-Vscode             429 lines           █░░░░░░░░░░�
  Last Updated on 02/10/2026 09:53:40 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
+<!--START_SECTION:wakasimple-->
 
 ```text
 From: 27 March 2024 - To: 17 September 2026
@@ -81,7 +81,7 @@ Text                      76 hrs 51 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Dart                      50 hrs          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.30 %
 ```
 
-<!--END_SECTION:waka-simple-->
+<!--END_SECTION:wakasimple-->
 
 # Languages and Tools:
 
