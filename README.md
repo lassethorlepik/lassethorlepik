@@ -13,19 +13,19 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      23 hrs 22 mins      ████████████████░░░░░░░░░   63.95 % 
-Python                   5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Todotxt                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Lua                      21 hrs 9 mins       ████████████████░░░░░░░░░   62.84 % 
+Python                   5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-Codex Vscode             25 hrs 15 mins      █████████████████░░░░░░░░   69.11 % 
-VS Code                  11 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Codex Vscode             25 hrs              ███████████████████░░░░░░   74.23 % 
+VS Code                  8 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 ```
 
 
- Last Updated on 03/10/2026 18:46:48 UTC
+ Last Updated on 04/10/2026 18:43:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
