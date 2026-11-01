@@ -7,26 +7,26 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      33 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
-Python                   17 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Other                    14 hrs 17 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Markdown                 11 hrs 11 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-JSON                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+C++                      46 hrs 32 mins      ██████████████░░░░░░░░░░░   55.40 % 
+Python                   15 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Markdown                 10 hrs 15 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Other                    8 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JSON                     1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-Claude Code              59 hrs 7 mins       ███████████████████░░░░░░   74.03 % 
-Codex Vscode             19 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-VS Code                  51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Claude Code              63 hrs 16 mins      ███████████████████░░░░░░   75.33 % 
+Codex Vscode             19 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+VS Code                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
- Last Updated on 31/10/2026 19:27:25 UTC
+ Last Updated on 01/11/2026 19:50:50 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
