@@ -13,19 +13,19 @@
 
 ```text
 💬 Programming Languages: 
-C++                      17 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Python                   16 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.83 % 
-Other                    6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Markdown                 5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Lua                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+C++                      17 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.40 % 
+Python                   14 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Markdown                 6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Other                    5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Lua                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 
 🔥 Editors: 
-Claude Code              51 hrs 50 mins      █████████████████████████   99.58 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Claude Code              50 hrs 6 mins       █████████████████████████   99.56 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 19/11/2026 22:43:38 UTC
+ Last Updated on 20/11/2026 22:17:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
